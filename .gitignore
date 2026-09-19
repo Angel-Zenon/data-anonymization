@@ -1,0 +1,6 @@
+# entorno virutal python
+.venv/
+
+# data 
+datos_hospital_originales.csv
+copia.csv
