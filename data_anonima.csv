@@ -1,0 +1,51 @@
+ID_Cliente,Nombre,sexo,RFC,Fecha_Nacimiento,Codigo_Postal,Monto_Compra,Categoria_Producto
+1,J*** C***** P****,m,ab9b23a93d58cc0b3b46d7bf268a77a4972db5d0705270c4fb8ae5707f63bdb5,40-49,310***,1250.5,Farmacia
+2,M**** E**** G****,f,9bcb6c230646c07b06f5ec361cc1c2636c4ec5bd9622d2f9f8296f2998c54da0,40-49,310***,450.0,Cuidado Personal
+3,C***** A****** L****,m,0074bb80c16463044961e6298b77566641491080e9ad38b588b45669941ee2e9,30-39,104***,3200.75,Equipamiento
+4,A** S**** R********,f,6890e517e021fcd482909d9e95e5b56228b6a2beb15bfca40dfdbf3a996a6af7,30-39,105***,890.2,Farmacia
+5,L*** F******* M*******,m,9ed7e0307e719503995ab1fbf5d23509d4fde549e5c8fcce943cf351eebb86f2,30-39,640***,2100.0,Equipamiento
+6,L**** P******* H********,f,aa4f04d0008fefd44f8df5a968f9b57d5f7ca4d7fc35bba210a36d9d2b6b3632,30-39,640***,150.3,Farmacia
+7,J**** E****** S******,m,6d18cd7327397c1269923722ec779e7784597e906ce5834d55811442cf29ed6e,40-49,441***,4300.1,Equipamiento
+8,C****** B****** R******,f,9f51c7c53000db30193a9f675df7b3995f51f817482a3433810687d27519b586,30-39,441***,670.8,Cuidado Personal
+9,R****** A***** F*****,m,340bd37eb958cecd4c7466e20198c0d247b9ae28b97b8ab3912d774bf9c74303,50+,310***,1850.4,Farmacia
+10,S**** I***** T*****,f,da5383e41cc2f08e6613d46f250444805fdf5dde734e68b36e265133f159621a,18-29,640***,920.0,Cuidado Personal
+11,J*** L*** A****** R********,m,3c6454bd056a585384991e5ac23716ee70ee85620b7798a9f788459268eb2aa9,50+,640***,1708.23,Farmacia
+12,M***** A**** G***** M*****,m,7a17bb70c49931ceee7ce1141fddfd0404a3ac8f710995ccd2facc36f5b1b223,50+,640***,1972.66,Equipamiento
+13,F******** H******** H******,m,e498a4d4e0eab83385bc88ad6b50c6aed7c18913ca7e0006a6431d16bc1fe8d0,30-39,104***,4940.11,Cuidado Personal
+14,J*** R**** D***,m,fa83631884d4f3bb940805135e218dfe2fdc05a0cbf7de0c2ea4fdfbcb3bf952,30-39,104***,2419.02,Equipamiento
+15,J**** R*** S******,m,8ba529f856e9caa4b4bbce44ee766dc999d18121790a78905da9045d296e8ac3,50+,310***,3573.13,Farmacia
+16,A******** G***** A******,m,992dd229a794e58065059ebebd33d9c591df2a0e39223c815f29b07056ed4389,50+,640***,4227.42,Equipamiento
+17,A****** M****** G*****,m,8d9d35da12037a3ae34a856c14367f8926a7f8d2f08c7b699b66f52815b9950a,18-29,310***,866.76,Equipamiento
+18,J**** R***** R****,m,bfd75b92c691de80ec5dd32602fefc68d882461be7a9d99bae8850dbccdc801e,30-39,441***,4825.85,Cuidado Personal
+19,P**** M****** D********,m,c57ab007c5b6e50cac9674914dda5372f1dbb97c71d5040216fe3ed1baad9148,18-29,310***,2544.92,Equipamiento
+20,C***** L**** C*******,m,4201c037bb083ff5d2250e7a017e9000cb42b037e7c0de724aea91b9c6dca29a,30-39,105***,2867.73,Cuidado Personal
+21,R****** A****** D********,m,1bcc903f3a69af4e09333a397911fdebb68e295c07b62a4c338615f4afce1528,50+,640***,4909.92,Cuidado Personal
+22,J*** C***** V***** D***,m,c26a6bd657319b47b5ef096669d9a1addf64239332f5b5f2674eee341f3101b3,30-39,105***,3635.32,Farmacia
+23,J***** L**** R******,m,62bdd5a168316c7f4c0747a8499e51c43d2edfe60513a6c41d4a963b6f5e564b,50+,640***,4726.93,Cuidado Personal
+24,J*** D******** R******,m,f00a8ebddd9ad193661ed4bef3e79f329e3df48fb560364bafdab4c5a3b6143d,30-39,441***,1923.94,Farmacia
+25,F******* V***** M*****,m,9808f272bfa8f08df6eb8576db87e34165cd81dd298cd56135e22823fa225533,50+,105***,1310.49,Equipamiento
+26,F******** J***** J****** M*****,m,8f2f0e55fc3dd3d27130480518ee551ae7e6ad2bfe1ac5009e9a9ceb37a1087e,50+,310***,2336.73,Farmacia
+27,A***** G******* C*****,m,ba733e9879c51c2ba44b1e3c15dc6698bee3691395243631cf310e8d01e0baeb,40-49,640***,1044.9,Equipamiento
+28,M***** D*** L****,m,d508af747747feee4aeaf288aac591ed6f3de6559727ff7ba8bbc2ce68eee5e8,50+,310***,2362.37,Equipamiento
+29,R*** C***** R***,m,a7f8458d104684bee13a8652a32127b9afe8e3135b8992f71866afd0edd2acb5,30-39,105***,3468.89,Equipamiento
+30,R****** C***** V******,m,5f5ef7971a5c3ed8cac3b3c17853a7dccaeb4bb13b2e1fa0f26ac644bc6c582f,50+,104***,3457.09,Cuidado Personal
+31,M**** R**** H********,f,ac19b4e47a2e84bf14256cbcaece3c2aa6707bafd50e4c605a292478925d3f1f,50+,310***,2644.83,Equipamiento
+32,G******** M***** J******,f,b8497e68714422ed09f732f9b91157f1a8bc80612d2e40a5583a8b26b42a6ae9,40-49,104***,2526.21,Cuidado Personal
+33,R*** R**** R****,f,0528dd10855423d4f6dc69cc101b5d160a565ddd5cd7c14c5d008d090b2e71ce,50+,441***,1382.94,Farmacia
+34,M***** S****** V******,f,4fdde2e9d3cc6eaff07dbddea9786986e222d21c339ed8b7c316c35135dcc949,40-49,310***,3444.37,Equipamiento
+35,A** V****** S******,f,ff7354f137de64c91c8c51f378e1ed1eea9e23f608786c3d1f89257f1d7d250b,40-49,104***,1150.22,Equipamiento
+36,P******* C******* R*****,f,75a7930ddc97ec7149da2cc3175305a2f370a900249eb510046c5faf73a96dcb,18-29,640***,4865.9,Equipamiento
+37,L****** H****** O****,f,a39f0a2ea4ce3a4788ae33486f3dfc1a04831422e0f6f66574b941a0bde9d977,50+,104***,4905.38,Equipamiento
+38,E**** A****** H******,f,f5b74e8ec1b7c666bc48f1ba4d89a6ea7ae5da205cab4d9597bebac5b395f006,50+,441***,3341.06,Farmacia
+39,L**** G******** H******,f,4de76c67a8dfaae8ed29dba7a0c881ab1bada2fd9185941bf9ced33a041c2a26,50+,640***,4045.58,Cuidado Personal
+40,E******** D******** R******,f,11422a03dae5a22e4b859379fc7f00211ee712e7842a25ecffd505a2ea7ef348,30-39,310***,1430.36,Equipamiento
+41,I***** G**** M*******,f,a1cb17b1f4ff627cf79f1fadf89794f2a11e215666649d0560d620c801831694,50+,310***,2851.87,Cuidado Personal
+42,A***** R**** G*****,f,e33f859743347716c61df508ae84882c4d7bd2613d0f678d7b29e0e2913fdb3d,40-49,310***,3139.93,Cuidado Personal
+43,M******** M***** G*****,f,0828830291d19edd357e0a3e53833e4cf57a05b943f88a15482b6f5b8d0f0750,50+,441***,136.89,Cuidado Personal
+44,L** H****** V*****,f,f0452a978177367daac66b8df33beae022269a3a937f01762050438ffe4ff22f,40-49,310***,3022.09,Equipamiento
+45,A******* M****** S******,f,cd475073a309aa5777744a13c3ca6fc362ea36d1124aec2660b167b1a797b7ee,18-29,640***,2519.2,Farmacia
+46,C****** C******* M*****,f,a5939f4f0adfe4ab0ccdf9710fc3045558f4151aa21d1204713b89db0365653e,40-49,640***,3164.17,Cuidado Personal
+47,S***** O**** J*****,f,ad140027c7ff6e0d55be3ce7dcc5bf165b6eda3a7c1003bfe3a6b387b443d734,30-39,104***,3103.7,Farmacia
+48,N**** M***** M*****,f,1be327b7bbc8d5e5926bddf18b34a89f288acbe73e407b9b5504ae760e8d9625,30-39,640***,1403.62,Cuidado Personal
+49,J**** R******** M******,f,a0b9e53f3b8adda682c91addf47ba07c31f450b9e83ae85419fa695d23cf67b2,50+,310***,4051.21,Farmacia
+50,G******* G******* A******,f,2eb201b48a28bd2be311db4a9926a843a323c4102655c6bd6647998beb67961d,18-29,104***,2932.52,Farmacia

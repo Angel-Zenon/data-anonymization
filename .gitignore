@@ -1,6 +1,10 @@
 # entorno virutal python
 .venv/
+__pycache__/
+*.pyc
 
 # data 
 datos_hospital_originales.csv
 copia.csv
+
+reporte_tecnico.tex
